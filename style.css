@@ -1,0 +1,44 @@
+<style>
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    display: block;
+    margin: 20% auto;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+h1 {
+    font-size: 24px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+    width: 20%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+</style>
